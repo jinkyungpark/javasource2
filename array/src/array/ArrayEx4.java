@@ -32,8 +32,8 @@ public class ArrayEx4 {
             jumsu2[i] = sc.nextInt();
         }
 
-        // 확인
-        System.out.println(Arrays.toString(jumsu2));
+        // 확인(화면 출력)
+        System.out.println(Arrays.toString(jumsu2)); // [88, 78, 69, 55, 45, 66, 78, 72, 53, 22, 55, 65, 75, 85, 92]
 
         sc.close();
 
